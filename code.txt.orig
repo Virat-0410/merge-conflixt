@@ -1,5 +1,8 @@
 hello world
 changes made by virat
+<<<<<<< HEAD
 new change in f1
+=======
 changes made by f2
+>>>>>>> f2
 
